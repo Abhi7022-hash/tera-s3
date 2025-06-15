@@ -4,7 +4,7 @@ variable "aws_region" {
 }
 
 variable "bucket_name" {
-  description = "The name of the S3 bucket"
+  description = "my-tf-test-bucket-abhi467-2025"
   default     = "my-unique-s3-bucket-name-123456"
 }
 
